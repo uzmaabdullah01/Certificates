@@ -11,6 +11,8 @@ Introduction to Artifical Intelligence on Cloud AI
 ## Boston University (BU) Certificates
 - Foundations of Computer Information Systems Certificate  
   (Java, SQL, Database Systems, Systems Analysis, Networks, IT Security)
+- Foundation of Probability
+- Core Mathematical Concepts
 
 ## Open Avenues Foundation Certificate
 - Build Fellowship Consulting Certificate  
